@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PSWTestApp</string>
+
+    <string name="centering">Центрирование</string>
+    <string name="focus">Фокус</string>
+    <string name="menu">Меню</string>
+    <string name="cannot_select">Нельзя выбрать</string>
+</resources>
